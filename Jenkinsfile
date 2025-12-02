@@ -39,7 +39,7 @@ pipeline {
         }
     }
 }
-```
+
 
 ⚠️ **IMPORTANT** : Dans le Jenkinsfile, ligne 11, **remplacez `VOTRE-NOM`** par votre nom d'utilisateur GitHub !
 
